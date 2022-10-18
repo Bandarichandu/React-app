@@ -1,0 +1,212 @@
+body{
+    display:block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   background-image: url("https://c0.wallpaperflare.com/preview/134/372/59/abstract-background-copyspace-brainstorm.jpg"); 
+    background-repeat: no-repeat;
+    background-size:135% ; 
+} 
+.container
+{
+    position: relative;
+    height:50px;
+    right:0px;
+
+}
+.heder
+ {
+    height:100px;
+    width:100%; 
+  /*  background-image: url(""); 
+    background-size: 400px;
+   background-repeat: no-repeat;  */  
+     border-bottom:2px solid #02010b;
+    padding-top: 50px;
+    font-size: 100px;
+    color:rgb(14, 12, 12);
+    
+}
+.btn{
+    position:absolute;
+    top:45px;
+    right:10px;
+    
+}
+button{
+    color:black;
+    height:35px;
+    width:100px;
+    background-color: rgb(67, 100, 212);
+    border-radius: 15px;
+}
+button:hover{
+    background-color: rgb(63, 227, 85);
+}
+#data
+{
+    width:99%;
+    height:450px;
+    text-align: right;
+    justify-content: center;
+    display: flex;   
+    
+}
+.table
+{
+    width:800px;
+    
+}
+table{
+    color:rgb(243, 118, 16);
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}  
+img:hover{
+    clip-path:circle();
+}
+#p1img{
+    position: relative;
+    left:320px;
+}
+#p1img :hover{
+    background-color: rgb(128, 45, 45);
+}
+#name1{
+    color:rgb(31, 23, 31);
+    position: absolute;
+    left:550px;
+    top:300px;
+}
+#mail1{
+    color:rgb(31, 23, 31);
+    position: absolute;
+    top:325px;
+    left:520px;
+}
+
+#p2img{
+    position: relative;
+    left:150px;
+    top:30px;
+}
+#name2{
+    color:rgb(31, 23, 31);
+    position: absolute;
+    left:380px;
+    top:490px;
+}
+#mail2{
+    color:rgb(31, 23, 31);
+    position: absolute;
+    left:350px;
+    top:515px;
+}
+
+#p3img{
+    position: relative;
+    left:200px;
+    top:30px;
+}
+#name3{
+    color:rgb(31, 23, 31);
+    position: absolute;
+    left:700px;
+    top:490px;
+}
+#mail3{
+    color:rgb(31, 23, 31);
+    position: absolute;
+    left:660px;
+    top:515px;
+}
+
+#p4img{
+    position: relative;
+    left:30px;
+    top:70px;
+}
+#name4{
+    color:rgb(31, 23, 31);
+    position: absolute;
+    left:270px;
+   top:700px;
+}
+#mail4{
+    color:rgb(31, 23, 31);
+    position: absolute;
+    left:230px;
+    top:725px;
+ 
+}
+
+#p5img{
+    position: relative;
+    left:60px;
+    top:70px;
+}
+#name5{
+    color:rgb(31, 23, 31);
+    position: absolute;
+    left:550px;
+    top:700px;
+}
+#mail5{
+    color:rgb(31, 23, 31);
+    position: absolute;
+    left:530px;
+    top:725px;
+}
+
+#p6img{
+    position: relative;
+    left:80px;
+    top:70px;
+}
+#name6{
+    color:rgb(31, 23, 31);
+    position: absolute;
+    left:840px;
+    top:700px;
+}
+#mail6{
+    color:rgb(31, 23, 31);
+    position: absolute;
+    left:810px;
+    top:725px;
+}
+
+#name1:hover{
+    background-color:burlywood;
+}
+#name2:hover{
+    background-color:burlywood ;
+}
+#name3:hover{
+    background-color:burlywood ;
+}
+#name4:hover{
+    background-color:burlywood ;
+}
+#name5:hover{
+    background-color:burlywood ;
+}
+#name6:hover{
+    background-color:burlywood ;
+} 
+#mail1:hover{
+    background-color:burlywood;
+}
+#mail2:hover{
+    background-color:burlywood;
+}
+#mail3:hover{
+    background-color:burlywood;
+}
+#mail4:hover{
+    background-color:burlywood;
+}
+#mail5:hover{
+    background-color:burlywood;
+}
+#mail6:hover{
+    background-color:burlywood;
+}
